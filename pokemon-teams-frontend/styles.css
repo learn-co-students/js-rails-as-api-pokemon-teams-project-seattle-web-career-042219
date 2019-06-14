@@ -55,6 +55,10 @@ body {
     float: right;
     background-color: #E1332D;
   }
+
+  .hidden {
+    display: none;
+  }
   
   @media only screen and (min-width: 500px) {
     main {
